@@ -1,0 +1,21 @@
+{
+  "mode_aktif": "persen",
+  "biaya_admin": {
+    "member": {
+      "nominal": 700000,
+      "persen": 1
+    },
+    "reseller": {
+      "nominal": 1000,
+      "persen": 2
+    },
+    "admin": {
+      "nominal": 2000,
+      "persen": 3
+    },
+    "owner": {
+      "nominal": 100,
+      "persen": 10
+    }
+  }
+}
